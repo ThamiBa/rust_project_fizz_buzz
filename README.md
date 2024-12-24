@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple implementation of the classic FizzBuzz problem using the Rust programming language. The program prints the numbers from 1 to 100. For multiples of three, it prints "Fizz" instead of the number, and for multiples of five, it prints "Buzz". For numbers that are multiples of both three and five, it prints "FizzBuzz".
+This project is a simple implementation of the classic FizzBuzz problem using the Rust programming language. The program prints the numbers from 1 to 150. For multiples of three, it prints "Fizz" instead of the number, and for multiples of five, it prints "Buzz". For numbers that are multiples of both three and five, it prints "FizzBuzz",If no of these statements are satisfied print out the number.
 
 ## Getting Started
 
